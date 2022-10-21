@@ -581,7 +581,7 @@ ban = ['I_W_T','N_Y_B','K_M_E','B_I_X','W_O_R',
        'D_B_0','O_F_8','L_K_0','E_V_2','C_S_4',
        'A_O_5','W_W_2','F_S_8','H_D_1','I_O_5',
        'A_X_0','N_Z_7','G_Q_1','V_R_9','G_A_6',
-       'S_B_0','G_J_4','J_F_1','F_H_3','I_T_3',
+       'S_B_0','G_J_4','J_F_1','F_H_3','I_T_3']
 
 @bot.message_handler(commands=["start"])
 def start(message):
